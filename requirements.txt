@@ -1,0 +1,12 @@
+xgboost
+pandas
+matplotlib
+seaborn
+nbformat
+jupyter
+ipykernel
+scikit-learn
+optuna
+optuna-dashboard
+plotly
+fvcore
